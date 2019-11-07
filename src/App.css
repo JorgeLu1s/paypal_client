@@ -20,3 +20,7 @@
 .App-link {
   color: #09d3ac;
 }
+
+#paypal-button-container {
+  width: 400px;
+}
